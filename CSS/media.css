@@ -1,0 +1,29 @@
+@media (max-width: 800px) {
+    aside {
+        width: 150px;
+    }
+    .home-content h1 {
+        font-size: 2rem;
+    }
+    .home-content p {
+        font-size: 1rem;
+    }
+    .menu-button {
+        top: 40%;
+    }
+    .silderContent h3,
+    .silderContent > div
+    {
+        width: 100% !important;
+    }
+    
+    .counter .container {
+        padding: 30px 20px;
+    }
+
+    #contact-us{
+        flex-direction: column;
+    }
+}
+
+
